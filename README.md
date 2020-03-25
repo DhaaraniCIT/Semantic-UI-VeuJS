@@ -13,3 +13,7 @@ The technology used :
   * Semantic UI
    
   * VueJS
+
+As I have used VeuJS please add "Vue.js devtools" extention to your blowser.
+
+And ensure the "Allow access to file URLs" is ON or CHECKED.
