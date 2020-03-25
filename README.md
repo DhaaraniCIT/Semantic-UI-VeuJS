@@ -8,10 +8,8 @@ The technology used :
 
   * Htmal5
   
-  *CSS3
+  * CSS3
   
-  *Semantic UI
-  
-  *VueJS
-  
-  
+  * Semantic UI
+   
+  * VueJS
