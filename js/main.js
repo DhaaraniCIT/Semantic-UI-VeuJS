@@ -14,7 +14,7 @@ var drag = new Vue({
     image: 'image/du.jpg',
     description: '672 calaries per portion',
     price: '$5,99',
-    ingridien:'/image/meat.jpg'
+    ingridien:'image/meat.jpg'
   }
 })
 var drag1 = new Vue({
