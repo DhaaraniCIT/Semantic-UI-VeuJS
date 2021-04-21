@@ -6,7 +6,7 @@ which looks like a online food ordering webpage
 
 The technology used :
 
-  * Htmal5
+  * HTML5
   
   * CSS3
   
